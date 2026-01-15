@@ -1,0 +1,7 @@
+# Ignore raw data files
+data_samples/raw/*.csv
+
+# Ignore temporary files
+*.log
+*.tmp
+.DS_Store
